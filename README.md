@@ -5,3 +5,5 @@ The chatUI application is "Hugging Face ChatUI" and runs on the port 5173
 All architecture runs in a venv.
 
 In the "commands.txt" file there are commands that allows to run all architecture.
+
+The "env.local" file is the file that contains the local configurations of "ChatUI". In particular, it will be named within the chatUI directory like ".env.local".
