@@ -1,7 +1,7 @@
 COMMANDS
 
 - Activating venv
-	. venv/bin/activate
+	source venv/bin/activate
 
 - Starting llama-server
 	./build/bin/llama-server -m ../LLaMAntino-2-chat-13b-hf-UltraChat-ITA.Q2_K.gguf --host 127.0.0.1 --port 8080 --chat-template chatml --cache-reuse 0 --temp 0.5
