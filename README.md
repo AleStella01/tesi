@@ -7,3 +7,5 @@ All architecture runs in a venv.
 In the "commands.txt" file there are commands that allows to run all architecture.
 
 The "env.local" file is the file that contains the local configurations of "ChatUI". In particular, it will be named within the chatUI directory like ".env.local".
+
+The "package.json" file is one of the files inside the chatUI directory. The file must be configured as reported, so that the application can track the context through the MongoDB server.
